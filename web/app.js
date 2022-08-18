@@ -3,7 +3,7 @@
   
     var firebaseConfig = {
     apiKey: "AIzaSyAI1HnYzC47H-qQKttX2uXWBDUUYTZV43k",
-    authDomain: "ariyan-console.firebaseapp.com	",
+    authDomain: "ariyan-console.firebaseapp.com",
     databaseURL: "https://ariyan-console-default-rtdb.firebaseio.com",
     projectId: "ariyan-console",
     storageBucket: "ariyan-console.appspot.com",
